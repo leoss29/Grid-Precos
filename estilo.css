@@ -9,6 +9,11 @@ body {
     padding-top: 20px;
 }
 
+button {
+
+    cursor: pointer;
+}
+
 .grid {
 
     max-width:900px;

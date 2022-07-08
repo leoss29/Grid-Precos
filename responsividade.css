@@ -1,0 +1,54 @@
+@media only screen and (max-width:500px) {
+   
+    .info {
+
+        flex-direction: column;
+    }
+
+    .inscricao {
+
+        width: 100%;
+        border-radius:15px 15px 0 0;
+    }
+
+    .nos {
+
+        width: 100%;
+        margin-top: 20px;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .bem-vindos p {
+
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .bem-vindos h1{
+
+        line-height: 40px;
+        text-align: center;
+    }
+
+   body {
+
+      background: black;
+   }
+
+}
+
+
+
+
+
+@media only screen and (max-width:670px){
+    
+    .inscricao button{
+
+        width: 90%;
+        margin: auto;
+        transition: none;
+    }
+
+}
+
